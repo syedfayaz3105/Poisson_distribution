@@ -1,3 +1,6 @@
+
+                                                               
+                                                               
                                                                NAME: FARHANA H
                                                                REG.NO: 212223230057
 # Fitting Poisson  distribution
